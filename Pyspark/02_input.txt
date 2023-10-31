@@ -1,0 +1,3 @@
+name@|#age@|#gender
+"Sam"@|#34@|#Male
+"John"@|#60@|#Female
